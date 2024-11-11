@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IG_Card_React/static/css/main.2743740e.css",
+    "main.js": "/IG_Card_React/static/js/main.12861b18.js",
+    "static/js/453.546b8be9.chunk.js": "/IG_Card_React/static/js/453.546b8be9.chunk.js",
+    "index.html": "/IG_Card_React/index.html",
+    "main.2743740e.css.map": "/IG_Card_React/static/css/main.2743740e.css.map",
+    "main.12861b18.js.map": "/IG_Card_React/static/js/main.12861b18.js.map",
+    "453.546b8be9.chunk.js.map": "/IG_Card_React/static/js/453.546b8be9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2743740e.css",
+    "static/js/main.12861b18.js"
+  ]
+}
